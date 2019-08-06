@@ -3,22 +3,22 @@ An implementation in Javascript of the Open Extended Jung Type Scales
 
 
 # Goals
-Utilize the OpenJung dataset to create a Meyers-Briggs-like testing method via JS/React/Node
+Utilize the Open Extended Jungian Type Scales dataset to create a Meyers-Briggs-like testing method via JS/React/Node
 
 Develop an API to serve the dataset
 
-#Methodology
+# Methodology
 
-    #Conversion
+    *Conversion
     Extract question dataset from inline script and format as JSON
     
-    #Selection
+    *Selection
     Select 60 questions on start (randomly?  we might need to see what criteria the inline script uses to ensure proper balancing)
     
-    #Algorithms
+    *Algorithms
     Grading algos are in http://openpsychometrics.org/tests/OEJTS/development/
     
-    #Stretch
+    *Stretch
     Allow choice between full (60 question) or Brief (shortened test using smaller dataset, see                   http://openpsychometrics.org/tests/OEJTS/development/
     
     Allow choice of how many questions are on screen (5, 10, 25, ALL)
