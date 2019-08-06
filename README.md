@@ -1,5 +1,5 @@
 # OpenJungTypes
-An implementation in Javascript of the Open Extended Jung Type Scales
+An implementation in Javascript of the Open Extended Jung Type Scales. The items of the Open Extended Jungian Type Scales 1.2 are licenced under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License by [openpsychometrics.org](http://www.openpsychometrics.org).
 
 
 # Goals
