@@ -28,19 +28,21 @@ Develop an API to serve the dataset
 
 Styling:
 
-https://go.lambdaschool.com/brand/styleguide
+[Lambda School Style Guide](https://go.lambdaschool.com/brand/styleguide)
 
 Testing Method:
 
-https://openpsychometrics.org/tests/OEJTS/
+[Introduction and Testing Method](https://openpsychometrics.org/tests/OEJTS/)
 
-http://openpsychometrics.org/tests/OEJTS/development/
+[More in Depth Development History](http://openpsychometrics.org/tests/OEJTS/development/)
+
+[OEJTS v1.2 Specifications, Question Set 1 and Algos](https://openpsychometrics.org/tests/OEJTS/development/OEJTS1.2.pdf)
 
 Question Datasets:
 
-https://openpsychometrics.org/tests/OEJTS/1.php
+[Table of Question Set 1](https://openpsychometrics.org/tests/OEJTS/1.php)
 
-https://openpsychometrics.org/tests/OEJTS/2.php
+[Question Set 2 items in header script under var 'itempool'](https://openpsychometrics.org/tests/OEJTS/2.php)
 
 
 
