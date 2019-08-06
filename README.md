@@ -3,9 +3,9 @@ An implementation in Javascript of the Open Extended Jung Type Scales. The items
 
 
 # Goals
-Utilize the Open Extended Jungian Type Scales dataset to create a Meyers-Briggs-like testing method via JS/React/Node
+- Utilize the Open Extended Jungian Type Scales dataset to create a Meyers-Briggs-like testing method via JS/React/Node
 
-Develop an API to serve the dataset
+- Develop an API to serve the dataset
 
 # Methodology
 
@@ -19,7 +19,7 @@ Develop an API to serve the dataset
     
    Allow choice of how many questions are on screen (5, 10, 25, ALL)
     
-   Expand JSON to include connections between the questions and their indicators using https://blog.kumu.io/how-to-build-a-blueprint-1f05ad93e5d5 to render a visual map of the question matrix
+   Expand JSON to include connections between the questions and their indicators using https://blog.kumu.io/how-to-build-a-blueprint-1f05ad93e5d5 to render a visual map of the question matrix.
     
     
 
