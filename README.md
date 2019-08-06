@@ -9,23 +9,22 @@ Develop an API to serve the dataset
 
 # Methodology
 
-    *Conversion
+-Conversion
     Extract question dataset from inline script and format as JSON
     
-    *Selection
+-Selection
     Select 60 questions on start (randomly?  we might need to see what criteria the inline script uses to ensure proper balancing)
     
-    *Algorithms
+-Algorithms
     Grading algos are in http://openpsychometrics.org/tests/OEJTS/development/
     
-    *Stretch
+-Stretch
     Allow choice between full (60 question) or Brief (shortened test using smaller dataset, see                   http://openpsychometrics.org/tests/OEJTS/development/
     
-    Allow choice of how many questions are on screen (5, 10, 25, ALL)
+   Allow choice of how many questions are on screen (5, 10, 25, ALL)
     
-    Expand JSON to include connections between the questions and their indicators using https://blog.kumu.io/how-to-build-a-blueprint-1f05ad93e5d5 to render a visual map of the question matrix
+   Expand JSON to include connections between the questions and their indicators using https://blog.kumu.io/how-to-build-a-blueprint-1f05ad93e5d5 to render a visual map of the question matrix
     
-    Expand JSON to dynamically weight connections between questions and indicators (ie a question marked as a 5 by the user and counting towards "I" by the algorithm will have a stronger connection than someone rating that question a 1), generating a customized visual map of user answers on completion
     
 
 
