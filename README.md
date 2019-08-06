@@ -15,7 +15,7 @@ Develop an API to serve the dataset
     
 - Algorithms:  Grading algos are in http://openpsychometrics.org/tests/OEJTS/development/
     
-- Stretch:  Allow choice between full (60 question) or Brief (shortened test using smaller dataset, see                   http://openpsychometrics.org/tests/OEJTS/development/
+- Stretch:  Allow choice between full (60 question) or Brief (shortened test using smaller dataset, see                   http://openpsychometrics.org/tests/OEJTS/development/ )
     
    Allow choice of how many questions are on screen (5, 10, 25, ALL)
     
@@ -33,11 +33,13 @@ https://go.lambdaschool.com/brand/styleguide
 Testing Method:
 
 https://openpsychometrics.org/tests/OEJTS/
+
 http://openpsychometrics.org/tests/OEJTS/development/
 
 Question Datasets:
 
 https://openpsychometrics.org/tests/OEJTS/1.php
+
 https://openpsychometrics.org/tests/OEJTS/2.php
 
 
