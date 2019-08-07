@@ -9,13 +9,13 @@ An implementation in Javascript of the Open Extended Jung Type Scales. The items
 
 # Methodology
 
-- Conversion: Extract question dataset from inline script (strings are loaded in a header script in a var called "itempool") and format as JSON
+- Conversion: ~~Extract question dataset from inline script (strings are loaded in a header script in a var called "itempool") and format as JSON.~~ (only 32 questions have been selected as stable, the remaining questions are in beta, specs only recommend use of the 32 selected questions for the api; these 32 are not the ones in `itempool`)
     
 - Selection:  Select 60 questions on start (randomly?  we might need to see what criteria the inline script uses to ensure proper balancing)
     
 - Algorithms:  Grading algos are in http://openpsychometrics.org/tests/OEJTS/development/
     
-- Stretch:  Allow choice between full (60 question) or Brief (shortened test using smaller dataset, see                   http://openpsychometrics.org/tests/OEJTS/development/ )
+- Stretch:  ~~Allow choice between full (60 question) or Brief (shortened test using smaller dataset, see                   http://openpsychometrics.org/tests/OEJTS/development/ )~~ (see "Conversion" above)
     
    Allow choice of how many questions are on screen (5, 10, 25, ALL)
     
