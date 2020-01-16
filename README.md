@@ -1,3 +1,8 @@
+# This formed the basis for the [Characteristiq](https://characteristiq.now.sh/) app entered into the [2020 Lambda School Winter Hackathon](https://youtu.be/MbWPI9SYvks).
+
+
+
+
 # OpenJungTypes
 An implementation in Javascript of the Open Extended Jung Type Scales. The items of the Open Extended Jungian Type Scales 1.2 are licenced under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License by [openpsychometrics.org](http://www.openpsychometrics.org).
 
