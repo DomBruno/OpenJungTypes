@@ -12,6 +12,8 @@ An implementation in Javascript of the Open Extended Jung Type Scales. The items
 
 - Develop an API to serve the dataset (the set is small enough to be a local json object with an optional update function)
 
+- Develop enough questions to randomize
+
 # Methodology
 
 - Conversion: ~~Extract question dataset from inline script (strings are loaded in a header script in a var called "itempool") and format as JSON.~~ (only 32 questions have been selected as stable, the remaining questions are in beta, specs only recommend use of the 32 selected questions for the api; these 32 are not the ones in `itempool`)
