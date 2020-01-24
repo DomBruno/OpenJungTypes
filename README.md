@@ -10,7 +10,7 @@ An implementation in Javascript of the Open Extended Jung Type Scales. The items
 # Goals
 - Utilize the Open Extended Jungian Type Scales dataset to create a Meyers-Briggs-like testing method via JS/React/Node
 
-- Develop an API to serve the dataset
+- Develop an API to serve the dataset (the set is small enough to be a local json object with an optional update function)
 
 # Methodology
 
