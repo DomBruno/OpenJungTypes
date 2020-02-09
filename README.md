@@ -35,7 +35,7 @@ An implementation in Javascript of the Open Extended Jung Type Scales. The items
 
 Styling:
 
-[Lambda School Style Guide](https://go.lambdaschool.com/brand/styleguide)
+~~[Lambda School Style Guide]~~ deprecated after rebrand
 
 Testing Method:
 
